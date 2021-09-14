@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/DayCycle.cs
+    - Assets/DayCycle.cs.meta
+    - Assets/Lost Complex (1).unity
+    - Assets/Materials/NewLayer.terrainlayer
+    - Assets/Materials/NewLayer.terrainlayer.meta
+    - Assets/Materials/fence.mat
+    - Assets/Materials/path.mat
+    - Assets/Materials/path.mat.meta
+    - Assets/New Terrain 4.asset
+    - Assets/New Terrain 4.asset.meta
+    - Assets/TerrainData_03034866-366e-4a39-8c33-e10ca4a2a60f.asset
+    - Assets/TerrainData_03034866-366e-4a39-8c33-e10ca4a2a60f.asset.meta
+    - Assets/TerrainData_28d9dcf8-df6e-44b2-b9a8-1e8609d85b6a.asset
+    - Assets/TerrainData_28d9dcf8-df6e-44b2-b9a8-1e8609d85b6a.asset.meta
+    - Assets/TerrainData_626f264d-8d16-4936-b5b8-eaae7c07fdf6.asset
+    - Assets/TerrainData_626f264d-8d16-4936-b5b8-eaae7c07fdf6.asset.meta
+    - Assets/TerrainData_74746f31-3032-4d85-8341-3e08c50ad1a2.asset
+    - Assets/TerrainData_74746f31-3032-4d85-8341-3e08c50ad1a2.asset.meta
+    - Assets/TerrainData_b0b9afee-86dd-4a38-8bec-ffe1cbe2d784.asset
+    - Assets/TerrainData_b0b9afee-86dd-4a38-8bec-ffe1cbe2d784.asset.meta
+    - Assets/TerrainData_ca1ef8b3-a856-48cc-b2e9-7a7b33caf317.asset
+    - Assets/TerrainData_ca1ef8b3-a856-48cc-b2e9-7a7b33caf317.asset.meta
+    - Assets/TerrainData_d281a4d6-9be0-42ab-b079-2961f10a4ed0.asset
+    - Assets/TerrainData_d281a4d6-9be0-42ab-b079-2961f10a4ed0.asset.meta
+    - Assets/TerrainData_e5609d5e-a401-4712-a515-9cf53a2af350.asset
+    - Assets/TerrainData_e5609d5e-a401-4712-a515-9cf53a2af350.asset.meta
+    - Assets/Textures/path.jpg
+    - Assets/Textures/path.jpg.meta
+    - 
+    m_Values: 0101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
